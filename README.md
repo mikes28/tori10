@@ -20,15 +20,11 @@ Hogyan maradt fenn a magyar államiság a török hódoltság és a Habsburg abs
 
 ### III. Az ipari forradalom és a nemzetté válás
 
-TODO: UJ ESZMEK: LIBERIALIZMUS, NACIONALIZMUS, KONZERVATÍVIZMUS, SZOCIALIZMUS
-
+* [Új politikai eszmék: liberalizmus, nacionalizmus, konzervativizmus, szocializmus](uj_eszmek.md) – *A 19. század meghatározó ideológiái.*
 * [Az ipari forradalom folyamata és társadalmi hatásai](ipari_forradalom.md) – *Gőzgépek, gyárak és a városiasodás.*
 * [A reformkor fő kérdései: Széchenyi és Kossuth](reformkor.md) – *A modern Magyarország építőmesterei.*
-* [1848. március 15. és a forradalom](marc_15.md) – *A pesti nép és a szabadság napja.*
+* [1848. március 15. és a forradalom](pesti_forradalom.md) – *A pesti nép és a szabadság napja.*
 * [Az áprilisi törvények és a szabadságharc](szabadsagharc_48.md) – *Harc a függetlenségért és az alkotmányosságért.*
 
-TODO: EASTI FORRASALOM
-
----
 *Olvasd el az útmutatót is:*
 [Összegzés és Tanulási Segédlet](summary.md)
