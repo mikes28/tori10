@@ -19,19 +19,12 @@ Hogyan maradt fenn a magyar államiság a török hódoltság és a Habsburg abs
 * [Magyarország 18. századi újjáépítése](magyarorszag_18szazad.md) – *Betelepítések és a felvilágosult abszolutizmus reformjai.*
 
 ### III. Az ipari forradalom és a nemzetté válás
+
+* [Új politikai eszmék: liberalizmus, nacionalizmus, konzervativizmus, szocializmus](uj_eszmek.md) – *A 19. század meghatározó ideológiái.*
 * [Az ipari forradalom folyamata és társadalmi hatásai](ipari_forradalom.md) – *Gőzgépek, gyárak és a városiasodás.*
 * [A reformkor fő kérdései: Széchenyi és Kossuth](reformkor.md) – *A modern Magyarország építőmesterei.*
-* [1848. március 15. és a forradalom](marc_15.md) – *A pesti nép és a szabadság napja.*
+* [1848. március 15. és a forradalom](pesti_forradalom.md) – *A pesti nép és a szabadság napja.*
 * [Az áprilisi törvények és a szabadságharc](szabadsagharc_48.md) – *Harc a függetlenségért és az alkotmányosságért.*
 
-### IV. Dualizmus és a 20. század traumái
-* [A kiegyezés (1867) és a dualista rendszer](kiegyezes.md)
-* [Dualista gazdaság és társadalom](dualista_gazdasag.md)
-* [Tisza Kálmán kora és a politikai rendszer](tisza_kalman.md)
-* [Nemzetiségi kérdés a dualizmus korában](dualis_nemzetisegek.md)
-* [Az őszirózsás forradalom és a trianoni béke](trianon.md)
-* [A Horthy-rendszer és a két világháború közötti világ](horthy_rendszer.md)
-
----
 *Olvasd el az útmutatót is:*
 [Összegzés és Tanulási Segédlet](summary.md)
